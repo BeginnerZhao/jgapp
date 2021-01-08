@@ -13,27 +13,11 @@
 					<key>url</key>
 					<string>http://121.32.28.4:8081/saas_web/upload/H587BA037_0105144002.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://121.32.28.4:8081/saas_web/upload/hanzhi.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://121.32.28.4:8081/saas_web/upload/hanzhi.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hanzhisoft.demo</string>
+				<string>com.hanzhi</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
