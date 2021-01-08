@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hanzhi</string>
+				<string>com.hanzhi.smartfx</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>hanzhisoft App download</string>
+				<string>Hanzhi Smart FX App download</string>
 			</dict>
 		</dict>
 	</array>
